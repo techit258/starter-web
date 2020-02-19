@@ -1,0 +1,14 @@
+ผลการค้นหา
+ผลการค้นเว็บ
+
+Install Windows Subsystem for Linux (WSL) on Windows 10 ...docs.microsoft.com › en-us › wsl › install-win10
+แปลหน้านี้
+23 ก.ค. 2561 - Installation instructions for the Windows Subsystem for Linux on Windows 10.
+‎Manually download Windows · ‎About the Windows Subsystem · ‎Kali Linux · ‎Debian
+
+Windows Subsystem for Linux - Wikipediaen.wikipedia.org › wiki › Windows_Subsystem_for_Lin...
+แปลหน้านี้
+ข้ามไปยัง wsl.exe - Windows Subsystem for Linux (WSL) is a compatibility layer for running Linux binary executables (in ELF format) natively on Windows 10 and Windows Server 2019. In May 2019, WSL 2 was announced, introducing important changes such as a real Linux kernel, through a subset of Hyper-V features.
+Operating system‎: ‎Microsoft Windows	Initial release‎: ‎August 2, 2016; 3 years ago
+Developer(s)‎: ‎Microsoft
+‎Overview · ‎Introduction and availability · ‎Development · ‎Architecture
